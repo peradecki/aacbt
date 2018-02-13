@@ -16,7 +16,7 @@ TBA
 
 ## Reporting bugs and requesting features
 
-Maintenance of this repository is will be formalized shortly.
+Maintenance of this repository will be formalized shortly.
 
 ## Contributors
 
