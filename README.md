@@ -6,6 +6,7 @@ Toolbox for analysis of amino acid bias of reference genomes.
 ## Usage
 
 **Inputs**: A GenBank (.gbk) or similarly-formatted file containing reference genomes.
+
 **Outputs**: A MATLAB `struct` containing cognate bias, proteomic composition, and relevant tags from the input file for each organism.
 
 
